@@ -42,7 +42,7 @@ pip install pypdf nltk
    ```
 3. Run the script:
    ```bash
-   python script_name.py
+   python pdfread.py
    ```
 4. If text extraction is successful, the full text and a summary (default: 10 sentences) will be displayed in the console.
 
