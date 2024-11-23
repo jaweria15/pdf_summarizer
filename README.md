@@ -44,7 +44,7 @@ pip install pypdf nltk
    ```bash
    python script_name.py
    ```
-4. If text extraction is successful, the full text and a summary (default: 20 sentences) will be displayed in the console.
+4. If text extraction is successful, the full text and a summary (default: 10 sentences) will be displayed in the console.
 
 ---
 
